@@ -2,7 +2,7 @@
 
 ---
 
-// This is a template repository to be used for all Ably Labs demos, tools &amp; proof of concepts. Follow these steps to so this repo adheres to the guidelines.
+// This is a template repository to be used for all Ably Labs demos, tools &amp; proof of concepts. Follow these steps to so this repo is easy to use for visitors & maintainers.
 
 1. Update the [.gitignore](.gitignore) file with one of the [standard templates from GitHub](https://github.com/github/gitignore).
 1. Update [dependabot.yml](.github/dependabot.yml) with the  [configuration for your project](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/configuration-options-for-dependency-updates).
