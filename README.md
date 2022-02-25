@@ -16,7 +16,7 @@ Once you're done, remove this section from the README. Good luck! 💪
 
 ---
 
-![Place eye candy header image here]()
+![Place eye candy header image here](https://placekitten.com/640/360)
 
 ## Description
 
@@ -42,13 +42,11 @@ The project uses the following components:
 
 ### Building the project
 
-1. 
-2.
+// Add step by step instructions for building & running locally.
+
 ## Deploying to the cloud
 
-1.
-2.
-
+// Add step by step instructions for deployment. Refer to the GitHub workflow where possible.
 
 ## Contributing
 
@@ -56,7 +54,11 @@ We have a [contributing guide](CONTRIBUTING.md) that explains how to contribute 
 
 ## More info
 
-// Link to blog, video, twitter handle.
+// Add links to related blog, video, personal twitter handle.
+
+- [Ably on Twitter](https://twitter.com/ablyrealtime)
+- [Ably SDKs](https://github.com/ably/)
+- [Ably.com](https://ably.com)
 
 ---
 ![Ably logo](?ref=REPO_NAME)
