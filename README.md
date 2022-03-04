@@ -55,7 +55,7 @@ The project uses the following components:
 
 ## Contributing
 
-We have a [contributing guide](CONTRIBUTING.md) that explains how to contribute to this repository.
+Want to help contributing to this project? Have a look at our [contributing guide](CONTRIBUTING.md)!
 
 ## More info
 
