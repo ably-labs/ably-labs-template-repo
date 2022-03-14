@@ -12,6 +12,8 @@
 6. Update this README so it provides enough information for people to understand how it works, how to run it locally and how it can be deployed to the cloud (see [GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)).
 7. Add a GitHub workflow to build/test/deploy your application. Use the [Ably Control API GitHub action](https://github.com/ably-labs/ably-control-api-action) to avoid creating Ably apps/API keys manually.
 8. Add this repository to the [selected repositories in the Ably Labs org](https://github.com/organizations/ably-labs/settings/actions) that are allowed to run GitHub Actions.
+9. Add a static asset badge to the README file (see bottom),
+10. Add a static asset logo to your demo HTML (if you need it)
 
 Once you're done, remove this section from the README. Good luck! 💪
 
@@ -66,4 +68,8 @@ Want to help contributing to this project? Have a look at our [contributing guid
 - [Ably.com](https://ably.com)
 
 ---
-![Ably logo](/media/ably-color.svg)
+
+# Add unique identifier querystring
+```
+![Ably Badge](https://static-asset-endpoint.herokuapp.com/badge-black.svg?unique-identifier)
+```
