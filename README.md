@@ -62,9 +62,10 @@ Want to help contributing to this project? Have a look at our [contributing guid
 
 // Add links to related blog, video, personal twitter handle.
 
-- [Ably on Twitter](https://twitter.com/ablyrealtime)
-- [Ably SDKs](https://github.com/ably/)
-- [Ably.com](https://ably.com)
+- [Join our Discord server](https://discord.gg/q89gDHZcBK)
+- [Follow us on Twitter](https://twitter.com/ablyrealtime)
+- [Use our SDKs](https://github.com/ably/)
+- [Visit our website](https://ably.com)
 
 ---
-![Ably logo](https://static.ably.dev/badge-black.svg?ably-labs-template-repo)
+[![Ably logo](https://static.ably.dev/badge-black.svg?ably-labs-template-repo)](https://ably.com)
